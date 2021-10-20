@@ -1,3 +1,2 @@
-# Projeto_Instagram
-##  Repositório referente ao BootCamp Fullstack Everis
+# Repositório referente ao BootCamp Fullstack Everis - Página Instagram
 Objetivo: Criar um modelo da página inicial do Instagram
