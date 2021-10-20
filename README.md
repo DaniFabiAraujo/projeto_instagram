@@ -1,3 +1,3 @@
 # Projeto_Instagram
-## Tarefa referente ao BootCamp Fullstack Everis
-###Clone de uma página inicial do Instagram
+##  Repositório referente ao BootCamp Fullstack Everis
+Objetivo: Criar um modelo da página inicial do Instagram
